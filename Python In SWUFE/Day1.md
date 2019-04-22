@@ -191,6 +191,7 @@ xincaijing
 （3）利用两个列表嵌套的方法存放如下矩阵，
 
 $$\begin{bmatrix}1 & 2 & 3 & 4\\\\5 & 6 & 7 & 8\\\\9 & 10 & 11 & 12\end{bmatrix}$$
+![matrix](img/day1_matrix.png)
 
 并取出第3行第4列的数。
 
